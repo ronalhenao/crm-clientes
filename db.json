@@ -36,11 +36,11 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "nombre": "Martín",
+      "nombre": "Martín Henao",
       "empresa": "google",
       "email": "test@correo.co",
       "telefono": "12345679",
-      "notas": "Texto prueba",
+      "notas": "Nueva nota",
       "id": 6
     }
   ]
